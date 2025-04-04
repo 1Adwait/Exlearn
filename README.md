@@ -1,2 +1,2 @@
-# Exlearn
-Devops
+aws configure
+
